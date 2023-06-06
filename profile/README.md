@@ -4,7 +4,7 @@ Welcome to Stoic Dreams' GitHub.
 
 ## Projects
 
-### [stoicdreams_timestamp](https://docs.rs/stoicdreams_timestamp): Developer Docs
+### [stoicdreams_timestamp](https://github.com/StoicDreams/TimeStamp): Developer Docs
 
 [![Timestamp GitHub Actions][gh-image]][gh-checks]
 [![Timestamp on crates.io][cratesio-image]][cratesio]
