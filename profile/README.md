@@ -2,9 +2,9 @@
 
 Welcome to Stoic Dreams' GitHub.
 
-## Projects
+## Rust-based Projects
 
-### [Rust Library: stoicdreams_timestamp](https://github.com/StoicDreams/TimeStamp)
+### [stoicdreams_timestamp](https://github.com/StoicDreams/TimeStamp)
 
 [![Timestamp GitHub Actions][gh-image]][gh-checks]
 [![Timestamp on crates.io][cratesio-image]][cratesio]
