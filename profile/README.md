@@ -60,6 +60,13 @@ Welcome to Stoic Dreams' GitHub.
 [ss-gh-image]: https://github.com/stoicdreams/SoftwareStandards/actions/workflows/deploy.yml/badge.svg
 [ss-gh-checks]: https://github.com/stoicdreams/SoftwareStandards/actions?query=branch%3Amain
 
+### [Hatch My Web](https://github.com/StoicDreams/HatchMyWeb)
+
+[![Timestamp GitHub Actions][hmw-gh-image]][hmw-gh-checks]
+
+[hmw-gh-image]: https://github.com/stoicdreams/HatchMyWeb/actions/workflows/deploy.yml/badge.svg
+[hmw-gh-checks]: https://github.com/stoicdreams/HatchMyWeb/actions?query=branch%3Amain
+
 ### [Agent Squire](https://github.com/StoicDreams/AgentSquire)
 
 [![Timestamp GitHub Actions][as-gh-image]][as-gh-checks]
