@@ -46,6 +46,13 @@ Welcome to Stoic Dreams' GitHub.
 [eg-gh-image]: https://github.com/stoicdreams/erikgassler/actions/workflows/deploy.yml/badge.svg
 [eg-gh-checks]: https://github.com/stoicdreams/erikgassler/actions?query=branch%3Amain
 
+### [MyFi](https://github.com/StoicDreams/MyFi)
+
+[![Timestamp GitHub Actions][mf-gh-image]][mf-gh-checks]
+
+[mf-gh-image]: https://github.com/stoicdreams/MyFi/actions/workflows/deploy.yml/badge.svg
+[mf-gh-checks]: https://github.com/stoicdreams/MyFi/actions?query=branch%3Amain
+
 ### [Gassler Design](https://github.com/StoicDreams/GasslerDesign)
 
 [![Timestamp GitHub Actions][gd-gh-image]][gd-gh-checks]
