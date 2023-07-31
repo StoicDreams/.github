@@ -116,6 +116,13 @@ Welcome to Stoic Dreams' GitHub.
 [igg-gh-image]: https://github.com/stoicdreams/IndieGameGeeks/actions/workflows/deploy.yml/badge.svg
 [igg-gh-checks]: https://github.com/stoicdreams/IndieGameGeeks/actions?query=branch%3Amain
 
+### [Pocket Goo](https://github.com/StoicDreams/PocketGoo)
+
+[![Timestamp GitHub Actions][pg-gh-image]][pg-gh-checks]
+
+[pg-gh-image]: https://github.com/stoicdreams/PocketGoo/actions/workflows/deploy.yml/badge.svg
+[pg-gh-checks]: https://github.com/stoicdreams/PocketGoo/actions?query=branch%3Amain
+
 ### [Task Story](https://github.com/StoicDreams/TaskStory)
 
 [![Timestamp GitHub Actions][tst-gh-image]][tst-gh-checks]
