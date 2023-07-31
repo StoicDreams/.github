@@ -116,6 +116,13 @@ Welcome to Stoic Dreams' GitHub.
 [igg-gh-image]: https://github.com/stoicdreams/IndieGameGeeks/actions/workflows/deploy.yml/badge.svg
 [igg-gh-checks]: https://github.com/stoicdreams/IndieGameGeeks/actions?query=branch%3Amain
 
+### [Karina Gassler](https://github.com/StoicDreams/KarinaGassler)
+
+[![Timestamp GitHub Actions][kg-gh-image]][kg-gh-checks]
+
+[kg-gh-image]: https://github.com/stoicdreams/KarinaGassler/actions/workflows/deploy.yml/badge.svg
+[kg-gh-checks]: https://github.com/stoicdreams/KarinaGassler/actions?query=branch%3Amain
+
 ### [Pocket Goo](https://github.com/StoicDreams/PocketGoo)
 
 [![Timestamp GitHub Actions][pg-gh-image]][pg-gh-checks]
