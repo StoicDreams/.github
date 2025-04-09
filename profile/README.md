@@ -81,6 +81,13 @@ Welcome to Stoic Dreams' GitHub.
 [ss-gh-image]: https://github.com/stoicdreams/SoftwareStandards/actions/workflows/deploy.yml/badge.svg
 [ss-gh-checks]: https://github.com/stoicdreams/SoftwareStandards/actions?query=branch%3Amain
 
+### [Guided Piano](https://github.com/StoicDreams/GuidedPiano)
+
+[![Timestamp GitHub Actions][gp-gh-image]][gp-gh-checks]
+
+[gp-gh-image]: https://github.com/stoicdreams/GuidedPiano/actions/workflows/deploy.yml/badge.svg
+[gp-gh-checks]: https://github.com/stoicdreams/GuidedPiano/actions?query=branch%3Amain
+
 ### [Hatch My Web](https://github.com/StoicDreams/HatchMyWeb)
 
 [![Timestamp GitHub Actions][hmw-gh-image]][hmw-gh-checks]
