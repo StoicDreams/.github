@@ -123,13 +123,6 @@ Welcome to Stoic Dreams' GitHub.
 [dyhatj-gh-image]: https://github.com/stoicdreams/DyHaTJ/actions/workflows/deploy.yml/badge.svg
 [dyhatj-gh-checks]: https://github.com/stoicdreams/DyHaTJ/actions?query=branch%3Amain
 
-### [Faryn the Game](https://github.com/StoicDreams/FarynTheGame)
-
-[![Timestamp GitHub Actions][ftg-gh-image]][ftg-gh-checks]
-
-[ftg-gh-image]: https://github.com/stoicdreams/FarynTheGame/actions/workflows/deploy.yml/badge.svg
-[ftg-gh-checks]: https://github.com/stoicdreams/FarynTheGame/actions?query=branch%3Amain
-
 ### [Indie Game Geeks](https://github.com/StoicDreams/IndieGameGeeks)
 
 [![Timestamp GitHub Actions][igg-gh-image]][igg-gh-checks]
