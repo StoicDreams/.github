@@ -2,7 +2,7 @@
 
 Welcome to Stoic Dreams' GitHub.
 
-## Rust-based Projects
+## Desktop Projects
 
 ### [Task Proxy Desktop Application](https://github.com/StoicDreams/TaskProxyApp)
 
@@ -10,6 +10,15 @@ Welcome to Stoic Dreams' GitHub.
 
 [gh-image]: https://github.com/stoicdreams/taskproxyapp/actions/workflows/deploy.yml/badge.svg
 [gh-checks]: https://github.com/stoicdreams/taskproxyapp/actions?query=branch%3Amain
+
+### [Task Proxy Plugins](https://github.com/StoicDreams/TaskProxyAppPlugins)
+
+[![Task Proxy Plugins GitHub Actions][gh-image]][gh-checks]
+
+[gh-image]: https://github.com/stoicdreams/taskproxyplugins/actions/workflows/deploy.yml/badge.svg
+[gh-checks]: https://github.com/stoicdreams/taskproxyplugins/actions?query=branch%3Amain
+
+## Frameworks
 
 ### [WebUI](https://github.com/StoicDreams/WebUI)
 
@@ -23,19 +32,6 @@ Welcome to Stoic Dreams' GitHub.
 [wui-cratesio]: https://crates.io/crates/webui
 [wui-docsrs-image]: https://docs.rs/webui/badge.svg
 [wui-docsrs]: https://docs.rs/webui
-
-### [stoicdreams_timestamp](https://github.com/StoicDreams/TimeStamp)
-
-[![Timestamp GitHub Actions][ts-gh-image]][ts-gh-checks]
-[![Timestamp on crates.io][ts-cratesio-image]][ts-cratesio]
-[![Timestamp on docs.rs][ts-docsrs-image]][ts-docsrs]
-
-[ts-gh-image]: https://github.com/stoicdreams/timestamp/actions/workflows/deploy.yml/badge.svg
-[ts-gh-checks]: https://github.com/stoicdreams/timestamp/actions?query=branch%3Amain
-[ts-cratesio-image]: https://img.shields.io/crates/v/stoicdreams_timestamp.svg
-[ts-cratesio]: https://crates.io/crates/stoicdreams_timestamp
-[ts-docsrs-image]: https://docs.rs/stoicdreams_timestamp/badge.svg
-[ts-docsrs]: https://docs.rs/stoicdreams_timestamp
 
 ## WebUI Based Websites
 
