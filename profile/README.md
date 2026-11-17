@@ -11,7 +11,7 @@ Welcome to Stoic Dreams' GitHub.
 [gh-image]: https://github.com/stoicdreams/taskproxyapp/actions/workflows/deploy.yml/badge.svg
 [gh-checks]: https://github.com/stoicdreams/taskproxyapp/actions?query=branch%3Amain
 
-### [Task Proxy Plugins](https://github.com/StoicDreams/TaskProxyAppPlugins)
+### [Task Proxy Plugins](https://github.com/StoicDreams/TaskProxyPlugins)
 
 [![Task Proxy Plugins GitHub Actions][gh-image]][gh-checks]
 
