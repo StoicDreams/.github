@@ -13,10 +13,10 @@ Welcome to Stoic Dreams' GitHub.
 
 ### [Task Proxy Plugins](https://github.com/StoicDreams/TaskProxyPlugins)
 
-[![Task Proxy Plugins GitHub Actions][gh-image]][gh-checks]
+[![Task Proxy Plugins GitHub Actions][tpp-image]][tpp-checks]
 
-[gh-image]: https://github.com/stoicdreams/taskproxyplugins/actions/workflows/deploy.yml/badge.svg
-[gh-checks]: https://github.com/stoicdreams/taskproxyplugins/actions?query=branch%3Amain
+[tpp-image]: https://github.com/stoicdreams/taskproxyplugins/actions/workflows/deploy.yml/badge.svg
+[tpp-checks]: https://github.com/stoicdreams/taskproxyplugins/actions?query=branch%3Amain
 
 ## Frameworks
 
